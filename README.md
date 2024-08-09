@@ -1,7 +1,10 @@
 # YouTube Trending Videos GPA
 
+## Introduction
+This is the final project of database managment system course
+
 ## Overview
-A web application to analyze and display trending YouTube videos' GPA based on views, likes, and comments across different regions (US, JP, KR, BR).
+We designed a web application to analyze and display trending YouTube videos' GPA based on views, likes, and comments across different regions (US, JP, KR, BR).
 
 ## Features
 - Search trending videos by region
